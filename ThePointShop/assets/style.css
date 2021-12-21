@@ -572,3 +572,7 @@ a {
   color: #fff;
   border-bottom: 2px solid #fff;
 }
+
+p {
+  margin-bottom: 0;
+}
