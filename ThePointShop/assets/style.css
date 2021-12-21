@@ -26,6 +26,7 @@ a {
   color: #78a9e2;
   padding: 0px 20px;
   line-height: 51px;
+  
 }
 
 .container-content {
@@ -551,8 +552,8 @@ a {
   background-color: #242930;
   width: 100%;
   overflow-x: scroll;
-  z-index: 10;
   display: none;
+  z-index: 5;
 }
 
 .menu-repon::-webkit-scrollbar { 
