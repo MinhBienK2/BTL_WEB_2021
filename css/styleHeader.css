@@ -174,10 +174,10 @@ input:checked ~ .background-black {
     top: 0;
     left: 0;
     bottom: -50px;
-    z-index: 1;
     transform: translateX(-100%);
     transition: transform linear 0.3s;
     padding-left:0;
+    z-index: 10;
 }
 
 input:checked ~ #header__bars-nav {
