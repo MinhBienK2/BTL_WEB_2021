@@ -177,8 +177,7 @@ input:checked ~ .background-black {
     transform: translateX(-100%);
     transition: transform linear 0.3s;
     padding-left:0;
-    z-index: 11;
-
+    z-index: 12;
 }
 
 input:checked ~ #header__bars-nav {
